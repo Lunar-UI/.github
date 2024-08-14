@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/Lunar-UI/.github/blob/main/New%20Project%202%20%5B18592D0%5D.png">
+</p>
 
 # LunarUI (WIP)
 
